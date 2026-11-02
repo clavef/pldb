@@ -6,7 +6,7 @@ creators STUDIO HAZE
 tags pl
 website https://topaz.ooo/
 aka 토파즈
-description Topaz is a statically checked programming language developed by STUDIO HAZE for typesetting and general software development. Its compiler is written in Topaz and emits Rust. The documented toolchain includes direct execution, native programs, and Web and Worker targets. Native executables are distributed for Windows, macOS, and Linux. The public repository publishes compiler release source. This is distinct from the 2021 Topaz language by m-schm.
+description Topaz is a general-purpose programming language with typesetting built in. Code that does the same job looks the same no matter who writes it. Its compiler is written in Topaz and emits Rust. The documented toolchain includes direct execution, native programs, and Web and Worker targets. Native executables are distributed for Windows, macOS, and Linux. The public repository publishes compiler release source. This is distinct from the 2021 Topaz language by m-schm.
 fileExtensions tpz
 writtenIn topaz-studiohaze rust
 compilesTo rust

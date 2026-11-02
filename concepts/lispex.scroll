@@ -6,7 +6,7 @@ creators STUDIO HAZE
 tags pl
 website https://www.lispex.com/
 aka 리스펙스
-description Lispex is a Lisp-family language developed by STUDIO HAZE for application decision rules. Its Rust implementation provides a source tree interpreter and a virtual machine that verifies bytecode before execution. It is available through native executables for Windows, macOS, and Linux, npm, WebAssembly, and a browser playground. Separate embeddable evaluators accept explicit work and memory limits. Topaz embeds a Lispex evaluator.
+description Lispex is a language for writing business rules, such as a publisher's house style. It cannot touch files or the network, so it is safe to run inside any program. Its Rust implementation provides a source tree interpreter and a virtual machine that verifies bytecode before execution. It is available through native executables for Windows, macOS, and Linux, npm, WebAssembly, and a browser playground. Separate embeddable evaluators accept explicit work and memory limits. Topaz embeds a Lispex evaluator.
 fileExtensions lspx
 writtenIn rust
 
